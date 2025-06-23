@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+@theme {
+  --color-Paimary: #5E3BEE;
+  --color-whaite: #F9F9FC;
+  --color-janiNah: #121212;
+  
+}
